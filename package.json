@@ -1,0 +1,27 @@
+{
+  "name": "kodilla-skrypt-komentarz",
+  "version": "1.0.0",
+  "description": "Dodalem komentarz do skryptu JShint",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taurus83/Zadanie_8_3_komentarz.git"
+  },
+  "keywords": [
+    "komentarz"
+  ],
+  "author": "Piotr Rucinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taurus83/Zadanie_8_3_komentarz/issues"
+  },
+  "homepage": "https://github.com/Taurus83/Zadanie_8_3_komentarz#readme"
+}
